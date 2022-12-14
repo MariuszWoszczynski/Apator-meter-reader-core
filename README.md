@@ -1,1 +1,1 @@
-# ESPhome-Apator-meter-reader
+# ESPhome-Apator-meter-reader-core
